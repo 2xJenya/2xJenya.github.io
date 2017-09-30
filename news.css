@@ -37,6 +37,8 @@ width: 350px;
 height: 300px;
 margin-left: 50px;
 margin-top: 50px;
+  font-family:'Times New Roman';
+font-size: 190%;
 }
 .novostu{
   display: inline-block;
@@ -45,6 +47,8 @@ margin-top: 50px;
   margin-top: 30px;
   margin-left: 150px;
   margin-right: 150px;
+  font-family:'Times New Roman';
+font-size: 190%;
 }
 .block3{
   width: 160px;
@@ -52,4 +56,6 @@ margin-top: 50px;
   background-color: grey;
   margin-top: 10px;
   margin-left: -158px;
+  font-family:'Times New Roman';
+font-size: 190%;
 }
