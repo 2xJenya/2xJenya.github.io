@@ -7,6 +7,10 @@ border-radius: 10px;
 width: 700px;
 padding: 40px;
 margin: auto;
+ 
+    margin-right: 25%; /* Отступ справа */
+    margin-left: 25%; /* Отступ слева */
+   
 
 font-family: 'Times New Roman', Times, serif;
 font-size: 180%;
