@@ -53,11 +53,12 @@ font-size: 190%;
    margin: auto;
 }
 .block3{
-  width: 160px;
-  height: 1000px;
-  background-color: grey;
-  margin-top: 10px;
-  margin-left: -158px;
-  font-family:'Times New Roman';
+ width: 160px;
+height: 1000px;
+background-color: grey;
+margin-left: -60px;
+margin-top: 60px;
+float: left;
+font-family:'Times New Roman';
 font-size: 190%;
 }
