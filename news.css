@@ -1,0 +1,54 @@
+.header {
+  display: block;
+  height: 60px;
+  background-color: #F0F8FF;
+}
+.pousk {
+  width: 300px;
+  margin: auto;
+  height: 20px;
+}
+.block1 {
+width: 250px;
+height: 200px;
+background-color: grey;
+margin-left: 200px;
+margin-top: 130px;
+display: inline-block;
+float: left;
+
+}
+/*.block2 {
+width: 250px;
+height: 200px;
+background-color: grey;
+margin-top: 130px;
+margin-left: 400px;
+display: inline-block;
+}*/
+.kartinka {
+width: 200px;
+margin-top: 10px;
+margin-left: 105px;
+}
+.text {
+width: 350px;
+height: 300px;
+margin-left: 50px;
+margin-top: 50px;
+}
+.novostu{
+  display: inline-block;
+  width: 1034px;
+  height: 800px;
+  margin-top: 30px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.block3{
+  width: 160px;
+  height: 1000px;
+  background-color: grey;
+  margin-top: 10px;
+  margin-left: -158px;
+}
