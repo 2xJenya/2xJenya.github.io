@@ -2,6 +2,7 @@
   display: block;
   height: 60px;
   background-color: #F0F8FF;
+  
 }
 .pousk {
   width: 300px;
@@ -49,6 +50,7 @@ font-size: 190%;
   margin-right: 150px;
   font-family:'Times New Roman';
 font-size: 190%;
+   margin: auto;
 }
 .block3{
   width: 160px;
